@@ -1,0 +1,18 @@
+.DS_Store
+Thumbs.db
+
+# Power BI autosave and temp files
+*.tmp
+*.bak
+*.laccdb
+
+# Python and notebook artifacts
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Local exports and recordings
+video/*.mp4
+video/*.mov
+docs/*.png
+docs/*.jpg
