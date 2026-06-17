@@ -22,8 +22,6 @@ This capstone project analyzes EmporiUm sales performance over the last four yea
 - Online published Power BI report
 - README with project summary and video link
 - 10-minute demo video
-- 5-minute in-class presentation
-- Daily commits in the `Capstone_3` repository
 
 ## Planned Report Pages
 ### Page 1: Regional Sales Overview
@@ -39,28 +37,6 @@ This capstone project analyzes EmporiUm sales performance over the last four yea
 - Top-selling books list with author names
 - Focus on general audience books only, excluding textbooks
 - Additional insight visuals if helpful
-
-## Files
-- `data/raw/`: original source files
-- `data/cleaned/`: optional cleaned exports
-- `docs/`: notes, screenshots, and supporting documentation
-- `presentation/`: materials for the 5-minute class presentation
-- `video/`: recording notes or link details
-- `notes/`: planning notes and analysis ideas
-
-## Status
-- [x] Project folder created
-- [ ] Sales dataset added
-- [ ] Region selected or confirmed
-- [ ] Data cleaned in Power BI
-- [ ] Data model reviewed
-- [ ] Page 1 visuals completed
-- [ ] Page 2 visuals completed
-- [ ] Insights written
-- [ ] Report published to Power BI Service
-- [ ] Demo video recorded
-- [ ] Presentation prepared
-- [ ] Video link added to README
 
 ## Video Link
 
