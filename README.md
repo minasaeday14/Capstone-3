@@ -63,7 +63,7 @@ This capstone project analyzes EmporiUm sales performance over the last four yea
 - [ ] Video link added to README
 
 ## Video Link
-Add your recording link here after you upload it.
+
 
 ## Key Insights
 This section will be completed after the Power BI report is built and reviewed.
