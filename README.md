@@ -24,10 +24,7 @@ The report includes at least two pages with descriptive headers.
 - Store count and average sales per store KPIs
 
 ## Required Deliverables
-- Power BI report file
-- Online published Power BI report
-- README with project summary and video link
-- 10-minute demo video
+
 
 ## Tools Used
 - Power BI
@@ -49,9 +46,8 @@ The report includes at least two pages with descriptive headers.
 - `video/`: video link or supporting notes
 
 ## Video Link
-Add your video link here after recording and upload.
 
 ## Submission Notes
 - Final Power BI report file: `Saeday_capstone3.pbix`
 - Final report to be published to Power BI Service for class submission
-- GitHub repository includes project documentation and supporting files
+
