@@ -1,21 +1,27 @@
 # Capstone-3
 
-Power BI analysis of EmporiUm regional sales trends, categories, states, and top-selling books.
+Power BI analysis of EmporiUm sales performance across the reporting period, with a focus on sales trends, category performance, state contribution, and top-selling general-audience books.
 
-This project uses Power BI to analyze four years of EmporiUm sales data for a regional sales team. The report highlights sales trends over time, category performance, state-level contributions, and top-selling general-audience books and authors.
+## Project Summary
+This capstone project analyzes EmporiUm sales data in Power BI for a regional sales audience. The report was designed to help sales leadership understand how performance changes over time, which product categories drive the most revenue, how sales are distributed across states within a region, and which non-textbook book titles perform best.
 
-## Project Overview
-This capstone project analyzes EmporiUm sales performance over the last four years using Power BI. The goal is to help a regional sales director and store leadership team understand sales trends, category performance, regional state contributions, and top-selling books for the assigned region.
+## Report Contents
+The report includes at least two pages with descriptive headers.
 
-## Project Goals
-- Clean and prepare the provided sales data
-- Build a data model in Power BI
-- Create a report with at least two pages and descriptive headers
-- Highlight sales trends across the full time period
-- Compare sales performance by category
-- Show each state's relative contribution to regional sales
-- Identify top-selling general-audience books and their authors
-- Publish the final report to Power BI Service
+### Page 1: EmporiUm Regional Sales Overview
+- Monthly sales trend across the full reporting period
+- Sales by category
+- Regional filtering for focused analysis
+
+### Page 2: EmporiUm Book and State Insights
+- Donut chart showing relative sales by state in the selected region
+- Top-selling general-audience books with author names
+- Textbooks excluded from the top-books analysis
+
+### Bonus Page: EmporiUm Store Performance Insights
+- Top 10 stores by sales
+- Bottom 10 stores by sales
+- Store count and average sales per store KPIs
 
 ## Required Deliverables
 - Power BI report file
@@ -23,23 +29,29 @@ This capstone project analyzes EmporiUm sales performance over the last four yea
 - README with project summary and video link
 - 10-minute demo video
 
-## Planned Report Pages
-### Page 1: Regional Sales Overview
-- Header: `EmporiUm Regional Sales Overview`
-- Line chart for sales trends over time
-- Bar or column chart for sales by category
-- KPI cards for total sales, total orders, and average order value
-- Filters for region, year, and channel if available
-
-### Page 2: Regional Book and State Insights
-- Header: `EmporiUm Book and State Insights`
-- Pie or donut chart for sales by state in the region
-- Top-selling books list with author names
-- Focus on general audience books only, excluding textbooks
-- Additional insight visuals if helpful
-
-## Video Link
-
+## Tools Used
+- Power BI
+- Power Query
+- Git and GitHub
 
 ## Key Insights
-This section will be completed after the Power BI report is built and reviewed.
+- Sales trend upward over the reporting period, with stronger peaks in later periods.
+- Technology and accessories contribute the largest share of category-level sales.
+- State-level contribution is concentrated, with a small number of states driving most regional sales.
+- General-audience book sales are led by a mix of recognizable fiction and nonfiction titles.
+- Store performance is uneven, with a relatively small number of locations contributing a large share of total store sales.
+
+## Repository Contents
+- `README.md`: project summary and submission notes
+- `notes/`: planning notes and checklist
+- `data/`: source and cleaned data folders
+- `presentation/`: presentation materials
+- `video/`: video link or supporting notes
+
+## Video Link
+Add your video link here after recording and upload.
+
+## Submission Notes
+- Final Power BI report file: `Saeday_capstone3.pbix`
+- Final report to be published to Power BI Service for class submission
+- GitHub repository includes project documentation and supporting files
