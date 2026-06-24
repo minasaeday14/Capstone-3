@@ -23,14 +23,6 @@ The report includes at least two pages with descriptive headers.
 - Bottom 10 stores by sales
 - Store count and average sales per store KPIs
 
-## Required Deliverables
-
-
-## Tools Used
-- Power BI
-- Power Query
-- Git and GitHub
-
 ## Key Insights
 - Sales trend upward over the reporting period, with stronger peaks in later periods.
 - Technology and accessories contribute the largest share of category-level sales.
@@ -38,15 +30,10 @@ The report includes at least two pages with descriptive headers.
 - General-audience book sales are led by a mix of recognizable fiction and nonfiction titles.
 - Store performance is uneven, with a relatively small number of locations contributing a large share of total store sales.
 
-## Repository Contents
-- `README.md`: project summary and submission notes
-- `notes/`: planning notes and checklist
-- `data/`: source and cleaned data folders
-- `presentation/`: presentation materials
-- `video/`: video link or supporting notes
+
 
 ## Video Link
-
+https://drive.google.com/file/d/1K7Y3bA5_3NhoKTMhHNaIdMncPa-ZgxQS/view?usp=sharing
 ## Submission Notes
 - Final Power BI report file: `Saeday_capstone3.pbix`
 - Final report to be published to Power BI Service for class submission
